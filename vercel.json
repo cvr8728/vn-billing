@@ -1,0 +1,1 @@
+{"cleanUrls":true,"rewrites":[{"source":"/api/auth/:a","destination":"/api/auth?a=:a"}]}
